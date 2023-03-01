@@ -1,4 +1,5 @@
-<link rel="stylesheet" src="style.css">
-
 # this is a test
+## abcdefg
+### a
+**bold** *italics*
 test test testy test
