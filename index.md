@@ -14,7 +14,7 @@ test test testy test
     - nest it up
         1. incredibly nested
 
-```c
+```c++
 void code_block() {
     printf("potato");
 }
