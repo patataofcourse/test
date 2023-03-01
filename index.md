@@ -15,8 +15,8 @@ test test testy test
         1. incredibly nested
 
 ```c++
-void code_block() {
-    printf("potato");
+void code_block(int a) {
+    printf("potato%d", a);
 }
 ```
 
